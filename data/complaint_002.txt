@@ -1,0 +1,7 @@
+Customer Name: John Smith
+Email: john.smith@example.com
+Phone: 555-9876
+Product: Home Security Camera
+Complaint: Motion detection triggers false alarms at night. The sensitivity setting appears to be correct but triggers continue.
+Resolution Provided: Adjusted sensitivity and suggested repositioning; customer still reports frequent false alarms.
+Escalation: May require firmware or sensor replacement.

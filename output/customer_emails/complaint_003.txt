@@ -1,0 +1,8 @@
+Dear [Customer's Name],
+
+Thank you for reaching out to us regarding the issue with API rate limits being hit unexpectedly. We have investigated the usage patterns and have advised on increasing the rate limits. To proceed further, we kindly request your confirmation of the new limits.
+
+Please feel free to contact us at procurement@acme.example or +1-800-555-0000 for any further assistance.
+
+Best regards,
+Acme Corp - Procurement

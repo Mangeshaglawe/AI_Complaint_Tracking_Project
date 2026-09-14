@@ -1,0 +1,8 @@
+Dear Maria Lopez,
+
+Thank you for reaching out to us regarding the issue with in-app purchases failing with error code 402 during checkout. We have collected logs and requested payment provider details to investigate further as the issue seems to be intermittent. We appreciate your patience as we work to resolve this matter promptly.
+
+Best regards,
+
+[Your Name]
+Customer Support Team

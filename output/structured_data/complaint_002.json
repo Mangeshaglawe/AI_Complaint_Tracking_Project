@@ -1,0 +1,12 @@
+{
+  "customer_name": "John Smith",
+  "email": "john.smith@example.com",
+  "phone": "555-9876",
+  "complaint_category": null,
+  "issue_description": "Motion detection triggers false alarms at night. The sensitivity setting appears to be correct but triggers continue.",
+  "resolution_provided": "Adjusted sensitivity and suggested repositioning; customer still reports frequent false alarms.",
+  "is_complaint": true,
+  "escalation_required": true,
+  "supporting_document": false,
+  "overall_status": null
+}

@@ -1,0 +1,7 @@
+Customer Name: Jane Doe
+Email: jane.doe@example.com
+Phone: +1-555-1234
+Product: SmartHome Thermostat
+Complaint: The thermostat frequently loses Wi-Fi and resets to factory settings. This has happened three times in the last week.
+Resolution Provided: Rebooted device and suggested firmware update; customer reports issue persists.
+Escalation: Possible hardware defect; customer requests replacement if unresolved.

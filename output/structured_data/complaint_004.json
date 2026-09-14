@@ -1,0 +1,12 @@
+{
+  "customer_name": "Maria Lopez",
+  "email": "maria.lopez@example.com",
+  "phone": "444-3210",
+  "complaint_category": null,
+  "issue_description": "In-app purchases are failing with error code 402 during checkout.",
+  "resolution_provided": "Collected logs and requested payment provider details; issue intermittent.",
+  "is_complaint": false,
+  "escalation_required": true,
+  "supporting_document": false,
+  "overall_status": null
+}

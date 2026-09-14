@@ -1,0 +1,5 @@
+- Case Overview: Jane Doe reported that her thermostat frequently loses Wi-Fi connection and resets to factory settings, occurring three times in the last week.
+- Key Issue: Persistent Wi-Fi connectivity and factory reset problems with the thermostat.
+- Action Taken: Rebooted device and recommended firmware update, but customer reports issue still persists.
+- Current Status: No further updates or resolution achieved.
+- Recommended Next Action: Follow up with Jane Doe to troubleshoot the issue further and explore potential hardware replacement or advanced technical support options.

@@ -1,0 +1,5 @@
+filename,customer_name,email,phone,category,escalation_required,overall_status,structured_path,email_path,summary_path,error
+complaint_002.txt,John Smith,john.smith@example.com,555-9876,,True,,output\structured_data\complaint_002.json,output\customer_emails\complaint_002.txt,output\case_summaries\complaint_002.txt,
+complaint_004.txt,Maria Lopez,maria.lopez@example.com,444-3210,,True,,output\structured_data\complaint_004.json,output\customer_emails\complaint_004.txt,output\case_summaries\complaint_004.txt,
+complaint_003.txt,Acme Corp - Procurement,procurement@acme.example,+1-800-555-0000,,True,,output\structured_data\complaint_003.json,output\customer_emails\complaint_003.txt,output\case_summaries\complaint_003.txt,
+complaint_001.txt,Jane Doe,jane.doe@example.com,+1-555-1234,,True,,output\structured_data\complaint_001.json,output\customer_emails\complaint_001.txt,output\case_summaries\complaint_001.txt,

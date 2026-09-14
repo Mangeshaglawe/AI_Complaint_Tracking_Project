@@ -1,0 +1,12 @@
+{
+  "customer_name": "Acme Corp - Procurement",
+  "email": "procurement@acme.example",
+  "phone": "+1-800-555-0000",
+  "complaint_category": null,
+  "issue_description": "API rate limits are being hit unexpectedly despite paid plan. Business processes are failing.",
+  "resolution_provided": "Investigated usage patterns; advised on rate-limit increase; customer requests confirmation of limits.",
+  "is_complaint": true,
+  "escalation_required": true,
+  "supporting_document": false,
+  "overall_status": null
+}

@@ -1,0 +1,7 @@
+Customer Name: Acme Corp - Procurement
+Email: procurement@acme.example
+Phone: +1-800-555-0000
+Product: Enterprise API Access
+Complaint: API rate limits are being hit unexpectedly despite paid plan. Business processes are failing.
+Resolution Provided: Investigated usage patterns; advised on rate-limit increase; customer requests confirmation of limits.
+Escalation: High priority — requires account team intervention.

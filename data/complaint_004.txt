@@ -1,0 +1,7 @@
+Customer Name: Maria Lopez
+Email: maria.lopez@example.com
+Phone: 444-3210
+Product: Mobile App
+Complaint: In-app purchases are failing with error code 402 during checkout.
+Resolution Provided: Collected logs and requested payment provider details; issue intermittent.
+Escalation: Finance team to confirm merchant account status.

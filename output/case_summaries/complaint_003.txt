@@ -1,0 +1,5 @@
+- Case Overview: Acme Corp's procurement team is experiencing unexpected API rate limit issues despite being on a paid plan, leading to business process failures.
+- Key Issue: API rate limits are being hit unexpectedly, impacting business operations.
+- Action Taken: Investigated usage patterns, advised on rate-limit increase, and requested customer confirmation of limits.
+- Current Status: No resolution or update provided.
+- Recommended Next Action: Follow up with the customer to confirm if the rate-limit increase has resolved the issue and ensure smooth operation of business processes.

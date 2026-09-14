@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-google-genai
+python-dotenv
+openai>=1.0.0
+pydantic>=1.10.0
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+tqdm>=4.0.0
+pytest>=7.0.0
+streamlit>=1.35.0
+pandas>=2.0.0
+email-validator>=2.0.0

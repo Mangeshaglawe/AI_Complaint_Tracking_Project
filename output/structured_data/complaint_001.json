@@ -1,0 +1,12 @@
+{
+  "customer_name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "phone": "+1-555-1234",
+  "complaint_category": null,
+  "issue_description": "The thermostat frequently loses Wi-Fi and resets to factory settings. This has happened three times in the last week.",
+  "resolution_provided": "Rebooted device and suggested firmware update; customer reports issue persists.",
+  "is_complaint": true,
+  "escalation_required": true,
+  "supporting_document": false,
+  "overall_status": null
+}
